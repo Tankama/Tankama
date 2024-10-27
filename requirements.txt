@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pandas
+Pillow
+chromadb
+torchvision
+gradio
